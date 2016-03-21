@@ -18,10 +18,10 @@
 - [Get invited to the UNAM FI organization](https://github.com/unamfi/Get-your-invite)
 
 ### Artificial Intelligence
-- [SAT](https://github.com/unamfi/SAT)
-- [SA](https://github.com/unamfi/SA)
-- [DPLL](https://github.com/unamfi/DPLL)
-- [NSGA-II](https://github.com/unamfi/NSGA-II)
+- [Propositional Satisfiability Problem](https://github.com/unamfi/SAT)
+- [Simulated annealing algorithm](https://github.com/unamfi/SA)
+- [Davis Putnam Logemann Loveland Algorithm](https://github.com/unamfi/DPLL)
+- [Non-dominated Sorting Genetic Algorithm - II](https://github.com/unamfi/NSGA-II)
 - [Traveller Agent](https://github.com/unamfi/Traveller-Agent)
 - [Xcode Lex](https://github.com/unamfi/Xcode-Lex)
 - [Xcode Jess](https://github.com/unamfi/Xcode-Jess)
@@ -52,13 +52,13 @@
 - [C for dummies](https://github.com/unamfi/C-for-dummies)
 
 ### Computer Graphics
-- [Game](https://github.com/unamfi/Game)
-- [Unity-Project](https://github.com/unamfi/Unity-Project)
+- [Game Architecture in Swift](https://github.com/unamfi/Game)
+- [Unity Project](https://github.com/unamfi/Unity-Project)
 - [Islas C.U. (by Ricardo)](https://github.com/unamfi/Ricardo-Islas)
 - [Islas C.U. (by Alberto)](https://github.com/unamfi/Alberto-Islas)
 
 ### Computer Architecture
-- [Von Neumann](https://github.com/unamfi/Von-Neumann)
+- [Von Neumann](https://github.com/unamfi/Von-Neumann) architecture in VHDL
 
 ### Blogging
 - [GSH MicroBlogging](https://github.com/unamfi/SH-MicroBlogging)
