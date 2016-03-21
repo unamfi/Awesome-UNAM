@@ -12,8 +12,8 @@
 - [Computer Architecture](#computer-arquitecture)
 - [Blogging](#blogging)
 - [Numeric Methods](#numeric-methods)
- 
-LaTeX
+- [LaTeX](#latex) 
+
 ### Getting Started
 - [Get invited to the UNAM FI organization](https://github.com/unamfi/Get-your-invite)
 
