@@ -5,6 +5,7 @@
 - [Getting Started](#getting-started)
 - [Artificial Inteligence](#artificial-intelligence)
 - [Algorithms and data structures](#algorithms-and-data-structures)
+- [Operating systems](#operating-systems)
 - [Mobile](#mobile)
 - [Image processing](#Image-processing)
 - [Programming](#Programming)
@@ -32,6 +33,9 @@
 
 ### Algorithms and Data Structrures
 - [Algoritmos y Estructura de Datos](https://github.com/unamfi/Algoritmos-y-Estructura-de-Datos)
+
+### Operating Systems
+- [Apuntes de la materia de Sistemas Operativos](https://github.com/unamfi/Sistemas-Operativos)
 
 ### Mobile
 - [Spotify Data Loader](https://github.com/unamfi/SPTDataLoader)
