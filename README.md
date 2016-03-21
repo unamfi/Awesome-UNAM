@@ -1,2 +1,1 @@
-# Awesome-UNAM
-A curated list of awesome engineering ecosystem, including UNAM Projects
+![](https://raw.githubusercontent.com/unamfi/Awesome-UNAM/master/Slice%201.png)
