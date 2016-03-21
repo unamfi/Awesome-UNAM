@@ -10,7 +10,7 @@
 - [Image processing](#Image-processing)
 - [Programming](#Programming)
 - [Computer Graphics](#Computer-Graphics)
-- [Computer Architecture](#computer-arquitecture)
+- [Computer Architecture](#Computer Architecture)
 - [Blogging](#blogging)
 - [Numeric Methods](#numeric-methods)
 - [LaTeX](#latex) 
