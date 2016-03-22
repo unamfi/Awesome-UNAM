@@ -1,20 +1,6 @@
 ![](https://raw.githubusercontent.com/unamfi/Awesome-UNAM/master/Slice%201.png)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Content
-- [Getting Started](#getting-started)
-- [Artificial Inteligence](#artificial-intelligence)
-- [Algorithms and data structures](#algorithms-and-data-structures)
-- [Operating systems](#operating-systems)
-- [Mobile](#mobile)
-- [Image processing](#Image-processing)
-- [Programming](#Programming)
-- [Computer Graphics](#Computer-Graphics)
-- [Computer Architecture](#Computer Architecture)
-- [Blogging](#blogging)
-- [Numeric Methods](#numeric-methods)
-- [LaTeX](#latex) 
-
 ### Getting Started
 - [Get invited to the UNAM FI organization](https://github.com/unamfi/Get-your-invite)
 
