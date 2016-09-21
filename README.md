@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Getting Started
-- [Get invited to the UNAM FI organization](https://github.com/unamfi/Get-your-invite)
+- [Get invited to the UNAM FI organization](https://unamfi.herokuapp.com/)
 
 ### Artificial Intelligence
 - [Propositional Satisfiability Problem](https://github.com/unamfi/SAT)
